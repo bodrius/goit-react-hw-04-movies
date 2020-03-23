@@ -1,0 +1,27 @@
+.input_search{
+    width: 270px;
+    height: 28px;
+    box-shadow: 2px 2px 5px green;
+    outline: none;
+    border: none;
+    margin-left: 30px;
+    font-size: 17px;
+    padding-left: 13px;
+}
+
+.btn_search{
+    height: 28px;
+    width: 100px;
+    padding: 0;
+    border: none;
+    box-shadow: 2px 2px 5px green;
+    font-size: 17px;
+    margin: 0;
+    margin-left: 30px;
+    border-radius: 3px;
+}
+
+p{
+    margin-left: 30px; 
+    font-size: 20px; 
+}

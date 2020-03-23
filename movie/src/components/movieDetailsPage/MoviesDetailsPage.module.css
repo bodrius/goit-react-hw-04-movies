@@ -1,0 +1,51 @@
+.section__button{
+    margin-left: 30px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    padding: 15px 40px;
+    box-shadow: 2px 2px 5px green;
+    font-size: 20px;
+    background-color: rgb(255, 0, 0);
+}
+
+.section{
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.section__photo{
+    margin-right: 30px;
+    box-shadow: 4px 4px 15px green;
+    width: 400px;
+    height: auto;
+}
+b{
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+p{
+    font-weight: 600;
+}
+
+.more__info{
+    border: 1px dotted black;
+    box-shadow: 2px 2px 5px green;
+    margin-bottom: 30px;
+}
+
+.section__caption{
+    margin: 0;
+    padding: 0;
+    font-weight: 700;
+    font-size: 25px;
+    margin-left: 30px;
+    
+}
+
+.list__item{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+}

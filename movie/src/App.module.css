@@ -1,0 +1,10 @@
+.menu__list{
+    list-style: none;
+    display: flex;
+    border: 1px solid black;
+    padding: 30px 0;
+    box-shadow: 3px 3px 10px black;
+}
+li{
+    margin-left: 30px;
+}
